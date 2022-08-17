@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sebastian / HOLA 👋, Soy Sebastian</h1>
-<h3 align="center">Full Stack Developer / Desarrollador Web Full Stack</h3>
-
-- 🌱 Currently learning MongoDB, Node.js and ReactJS / **🌱 Actualmente aprendiendo MongoDB, Node.js and ReactJS**
-
-- 📫 Contact me gimenez.csebastian@gmail.com / **📫 Contactame gimenez.csebastian@gmail.com**
+<h3 align="center">Full Stack Developer 🚀💻</h3>
+<img align="right" alt="Coding" width="400" src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/csebastiangimenez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/csebastiangimenez/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
