@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sebastian / HOLA 👋, Soy Sebastian</h1>
 <h3 align="center">Full Stack Developer 🚀💻</h3>
-<img align="right" alt="Coding" width="400" src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif">
+<img align="right" alt="Coding" width="360" src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif">
+
+- 🌱 Currently learning **MongoDB, Node.js and ReactJS**
+
+- 📫 Contact me **gimenez.csebastian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
