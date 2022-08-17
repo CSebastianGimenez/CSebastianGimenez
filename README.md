@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian / HOLA 👋, Soy Sebastian</h1>
+<h1 align="center">Hi 👋, I'm Sebastian </h1>
 <h3 align="center">Full Stack Developer 🚀💻</h3>
 <img align="right" alt="Coding" width="360" src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif">
 
